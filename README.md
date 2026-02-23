@@ -6,4 +6,4 @@
 **mariaabao/mariaabao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaabao)](https://github.com/anuraghazra/github-readme-stats)
+[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaabao)](https://github.com/mariaabao/github-readme-stats)
